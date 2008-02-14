@@ -1,0 +1,10 @@
+2008-02-14 18:59  mgrimes
+
+	* ., .releaserc, Build.PL, lib/Data/Pageset/HTML.pm,
+	  lib/Data/Pageset/Render.pm, t/00-new.t, t/01-main.t: Renamed
+	  project from Data::Pageset::HTML to ::Render
+
+2008-02-13 03:46  mgrimes
+
+	* : Initial import of Data::Pageset::HTML module
+
