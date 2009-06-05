@@ -1,6 +1,6 @@
 ---
 name: Data-Pageset-Render
-version: 0.12
+version: 0.14
 author:
   - 'Mark Grimes, E<lt>mgrimes@cpan.orgE<gt>'
 abstract: |-
@@ -14,8 +14,8 @@ requires:
 provides:
   Data::Pageset::Render:
     file: lib/Data/Pageset/Render.pm
-    version: 0.12
-generated_by: Module::Build version 0.2808
+    version: 0.14
+generated_by: Module::Build version 0.32
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2

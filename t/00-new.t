@@ -10,7 +10,9 @@ BEGIN { use_ok('Data::Pageset::Render'); }
 
 # Test set 2 -- create client with ordered list of arguements
 my $pager = Data::Pageset::Render->new( {
-        total_entries    => 100,
-        entries_per_page => 10,
+        total_entries       => 100,
+        entries_per_page    => 10,
+        link_format         => '%a ',
+        current_link_format => '[%a] ',
 } );
 ok $pager, "Created new Data::Pageset::Render";

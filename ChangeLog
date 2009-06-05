@@ -1,3 +1,13 @@
+2008-06-11 00:33  mgrimes
+
+	* lib/Data/Pageset/Render.pm: Added the Log::Checker module
+	  Minor pod and use fixes in Medie::Resizer::FFmpeg and
+	  Data::Pageset::Render
+
+2008-02-14 19:14  mgrimes
+
+	* MANIFEST: Update for project name change
+
 2008-02-14 18:59  mgrimes
 
 	* ., .releaserc, Build.PL, lib/Data/Pageset/HTML.pm,
